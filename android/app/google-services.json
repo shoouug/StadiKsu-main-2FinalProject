@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "979373514059",
+    "project_id": "stadiksu-2024",
+    "storage_bucket": "stadiksu-2024.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979373514059:android:fb6efcdd6eade9a2a19cce",
+        "android_client_info": {
+          "package_name": "com.mycompany.satdiksu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIduFZ8VYBURnsgbTq6VjbougKSrGDn4o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
