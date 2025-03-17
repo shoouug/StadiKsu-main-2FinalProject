@@ -1,9 +1,3 @@
 # StadiKSU
 
-A new Flutter project.
-
-https://app.flutterflow.io/project/stadi-k-s-u-ezdym6
-
-## Getting Started
-
-FlutterFlow projects are built to run on the Flutter _stable_ release.
+StadiKSU (Stadium King Saud University) is a mobile application designed to streamline the reservation and management of stadiums within King Saud University. The app provides students, faculty, and staff with an easy-to-use platform to book stadium facilities for sports activities, events, and training sessions. Users can check real-time availability, schedule reservations, and receive confirmations instantly. StadiKSU enhances accessibility and efficiency by digitizing the booking process, reducing administrative workload, and ensuring fair usage of university sports facilities.
